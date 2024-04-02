@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5dd4be3362a5c4d88d039ee87e2e4e, type: 3}
+  m_Name: GroundFloor
+  m_EditorClassIdentifier: 
+  locationName: GroundFloor
+  locationDesc: You're done with your neighbors being mysteries! It's time to do
+    some snooping!
+  north: {fileID: 11400000, guid: 8468e9dd6c7516f4599b6c1fc0cbacc6, type: 2}
+  south: {fileID: 0}
+  east: {fileID: 0}
+  west: {fileID: 0}

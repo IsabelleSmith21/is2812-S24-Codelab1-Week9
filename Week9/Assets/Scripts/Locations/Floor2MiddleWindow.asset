@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5dd4be3362a5c4d88d039ee87e2e4e, type: 3}
+  m_Name: Floor2MiddleWindow
+  m_EditorClassIdentifier: 
+  locationName: Floor 2 Middle Window
+  locationDesc: What is that glowing orb?
+  north: {fileID: 11400000, guid: 3186ebe2e0bc7e0428af7366fd76d2d8, type: 2}
+  south: {fileID: 11400000, guid: 391f47e85f2f7ba42a8c9d5ae2509046, type: 2}
+  east: {fileID: 11400000, guid: 95add33f21946a34bbffd0904cae79e9, type: 2}
+  west: {fileID: 11400000, guid: cdca3310e36e68f44b7d701d551e568d, type: 2}
