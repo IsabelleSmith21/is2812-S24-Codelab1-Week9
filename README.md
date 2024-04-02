@@ -2,4 +2,3 @@
 
 explore your neighbors windows and see what happens
 
-P
