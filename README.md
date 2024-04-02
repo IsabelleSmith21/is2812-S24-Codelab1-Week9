@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# WEIRD APARTMENT PEEPER WITH SCRIPTABLE OBJECTS. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+explore your neighbors windows and see what happens
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+P
